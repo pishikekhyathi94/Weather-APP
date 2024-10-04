@@ -1,0 +1,118 @@
+#first{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #F5EFED;
+}
+#main{
+    height: 95vmin;
+    width: 35%;
+    background-color: #70A288;
+    border-radius: 2rem;
+    text-align: center;
+}
+.inputs{
+  height: 20%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  
+}
+input{
+  font-size: 1.5rem;
+  height: 2.5rem;
+  width: 20rem;
+  border-radius: 1rem;
+  border: 1px solid #335c67;
+  background-color: #F5EFED;
+  color: #70A288;
+}
+button{
+  font-size: 1.5rem;
+  height: 2.8rem;
+  width: 2.8rem;
+  background-color: #F5EFED;
+  border-radius: 50%;
+  border: 1px solid #335c67;
+  color: #335c67;
+  
+}
+
+img{
+    height: 12rem;
+    width: 12rem;
+    border-radius: 50%;
+    
+}
+#img1{
+  height: 3rem;
+  width: 3rem;
+  border-radius: 50%;
+}
+.details{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -10px;
+  
+}
+#humidity{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5px;
+ 
+}
+#wind{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5px;
+  margin-right: -10px;
+}
+
+#values{
+  height: 7rem;
+  width: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: center;
+  align-items: center;
+  
+}
+#values1{
+  height: 7rem;
+  width: 9rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-items: center;
+  align-items: center;
+  
+}
+
+p{
+  margin-top: -50px;
+  font-size: 1rem;
+}
+#val1{
+  font-size: 3rem;
+}
+#val2{
+font-size: 2rem;
+margin-top: -20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
